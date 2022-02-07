@@ -1,4 +1,4 @@
-# hHola mundo
+# Hola mundo
 Mi primer repositorio.
 
 Autor: Astrid Rivera
